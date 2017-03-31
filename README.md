@@ -19,9 +19,13 @@ Contributing Guide for Repositories in this Organization.
     - 🔥 `:fire:` when removing code or files
     - 📝 `:memo:` when writing docs
     - ✏️ `:pencil2` when fixing typos
-    - 💄 `:lipstick:` when udating the UI and style files
+    - 💄 `:lipstick:` when updating the UI and style files
     - ✅ `:white_check_mark:` when adding tests
     - 🚧 `:construction:` when working in progress
     - ⬆️ `:arrow_up:` when upgrading dependencies
     - 🔖 `:bookmark:` when releasing / version tags
     - ... [gitmoji](https://gitmoji.carloscuesta.me/)
+
+### JavaScript style
+
+Use ESLint to configure. See [eslint-config-vision](https://github.com/vision-app/eslint-config) for more details.
