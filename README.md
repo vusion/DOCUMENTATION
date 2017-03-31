@@ -28,4 +28,4 @@ Contributing Guide for Repositories in this Organization.
 
 ### JavaScript style
 
-Use ESLint to configure. See [eslint-config-vision](https://github.com/vision-app/eslint-config) for more details.
+Use ESLint to configure. See [eslint-config-vusion](https://github.com/vusion/eslint-config) for more details.
