@@ -40,7 +40,7 @@ Hi! 首先感谢你使用Vusion。
     - 🚧 `:construction:` 当仍在开发中
     - ⬆️ `:arrow_up:` 当更新了依赖包
     - 🔖 `:bookmark:` 当发布版本或打了标签
-    - ... [更多参见](https://gitmoji.carloscuesta.me/)
+    - ... [更多](https://gitmoji.carloscuesta.me/)
 
 ### JavaScript代码规范
 
